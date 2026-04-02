@@ -1,0 +1,6 @@
+{
+  "nombre" : "Alberto",
+  "edad" : 5,
+  "domicilio" : "slp",
+  "arreglo" : [ 2,3,4,5 ]
+}
